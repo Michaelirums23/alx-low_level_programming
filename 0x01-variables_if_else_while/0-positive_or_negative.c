@@ -5,7 +5,7 @@
 /*
  * main - Entry point
  * Description: prints if a random number is zero, positve or negative
- * Return: Always (0)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
