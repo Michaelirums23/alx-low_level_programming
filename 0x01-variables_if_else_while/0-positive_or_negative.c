@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /*
  * main - Check randon numbers
  * Return: Always 0 (Good)
