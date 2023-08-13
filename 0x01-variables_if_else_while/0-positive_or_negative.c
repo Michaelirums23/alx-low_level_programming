@@ -3,8 +3,9 @@
 #include <stdio.h>
 
 /*
- * main - Check randon numbers
- * Return: Always 0 (Good)
+ * main - Entry point
+ * Description: prints if a random number is zero, positve or negative
+ * Return: Always (0)
  */
 
 int main(void)
