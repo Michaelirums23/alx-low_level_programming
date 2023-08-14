@@ -4,20 +4,20 @@
  * Return: Always 0 (Success)
  */
 int main(void)
-{	
+{
 	char c;
 
 	char b;
-	
+
 	c = 'a';
 	b = 'A';
 	while
-		(c <= 'z'){
+		(c <= 'z') {
 			putchar(c);
 			c++;
 		}
 	while
-		(b <= 'Z'){
+		(b <= 'Z') {
 			putchar(b);
 			b++;
 		}
