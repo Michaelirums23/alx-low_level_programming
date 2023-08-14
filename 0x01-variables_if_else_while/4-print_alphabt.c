@@ -9,7 +9,8 @@ int main(void)
 
 	c = 'a';
 	while
-		(c <= 'z') {
+		(c <= 'z')
+		{
 			if (c != 'q' && c != 'e') {
 				putchar(c);
 			}
@@ -18,4 +19,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-
