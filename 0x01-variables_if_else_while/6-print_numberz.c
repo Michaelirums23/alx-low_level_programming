@@ -5,7 +5,7 @@
  */
 int main(void)
 {
-	int a; 
+	int a;
 
 	a = 0;
 	while
