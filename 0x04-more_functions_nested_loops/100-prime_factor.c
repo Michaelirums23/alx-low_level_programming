@@ -3,7 +3,7 @@
 
 /**
  * main - Entry point
- * Description: a program that finds and prints the largest prime factor of the number 612852475143
+ * Description: finds and prints the largest prime factor of 612852475143
  * Return: 0
  */
 int main(void)
