@@ -9,8 +9,8 @@
 int _strlen(char *s)
 {
 	int i;
-	i = 0;
 
+	i = 0;
 	while (s[i] != '\0')
 	{
 		i++;
@@ -29,8 +29,8 @@ int _strlen(char *s)
 char *_strcpy(char *dest, char *src)
 {
 	int len, i;
-	len = 0;
 
+	len = 0;
 	while (src[len] != '\0')
 	{
 		len++;
